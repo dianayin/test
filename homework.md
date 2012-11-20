@@ -5,17 +5,17 @@ This is [Admaster](http://www.admaster.com.cn/zh-cn/).
 
 ![Admaster Logo](http://www.admaster.com.cn/static/img/logo.png "Admaster")
 
-| First Header  | Second Header |
-|:------------- |:------------- |
+|  Left align   |   Left align  |
+|:------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-| First Header  | Second Header |
-| ------------- | ------------- |
+|     Center    |     Center    |
+|:-------------:| ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
-| First Header  | Second Header |
-| -------------:| -------------:|
+|  Right align  |  Right align  |
+| -------------:| ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
